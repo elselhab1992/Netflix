@@ -2,7 +2,7 @@ import styled from "styled-components";
 import banner from "../../assets/header-image.png";
 
 const Section = styled.section`
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(${banner});
   background-repeat: no-repeat;
   background-size: cover;
