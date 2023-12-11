@@ -13,7 +13,7 @@ const GlobalStyles = createGlobalStyle`
         width: 100%;
         min-height: 100vh;
         text-transform: capitalize;
-        background-color:  ${(props) => props.theme.colors.secondary};;
+        background-color:  ${(props) => props.theme.colors.secondary};
     }
 
     a {
